@@ -1,0 +1,22 @@
+input {
+    width: 95%;
+    /* margin-left: 20%; */
+    border-radius: 10px;
+    padding: 8px 16px;
+}
+
+button {
+    margin-left: 10px;
+    border: none;
+}
+
+.search {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+h4 {
+    color: white;
+}
